@@ -1,19 +1,11 @@
-body {
-    margin-left: 150px;
-    margin-right: 150px;
-    background-color: rgb(255, 255, 255) ;
-    color:black;
-}
-p {
-    text-align: justify;
-}
-
-.roundedimage{
-    border-radius: 10px;
-}
-
-.judul {
-    font-size: larger;
-    font-weight: bold;
-
-}
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+  .button-logout:hover {
+    background-color: #3f5974 !important;
+  }
